@@ -1,14 +1,15 @@
-<p align="center">
-  <img src="assets/banner.png" alt="obfuscationTools" style="width:100%;max-height:260px;object-fit:cover"/>
-</p>
+<pre>
+       _      __                     _   _          _______          _     
+      | |    / _|                   | | (_)        |__   __|        | |    
+  ___ | |__ | |_ _   _ ___  ___ __ _| |_ _  ___  _ __ | | ___   ___ | |___ 
+ / _ \| &#x27;_ \|  _| | | / __|/ __/ _` | __| |/ _ \| &#x27;_ \| |/ _ \ / _ \| / __|
+| (_) | |_) | | | |_| \__ \ (_| (_| | |_| | (_) | | | | | (_) | (_) | \__ \
+ \___/|_.__/|_|  \__,_|___/\___\__,_|\__|_|\___/|_| |_|_|\___/ \___/|_|___/
+                                                                           
+                                                                           
+</pre>
 
-<p align="center">
-  <img src="assets/logo.png" alt="obfuscationTools logo" width="110"/>
-</p>
-
-<h1 align="center">obfuscationTools</h1>
-
-<p align="center">Obfuscation berlapis untuk kode C dan PHP</p>
+<p align="center">C & PHP obfuscator · zlib + base64</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB" alt=""/>
