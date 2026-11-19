@@ -33,8 +33,3 @@ python obPHP.py
 ## Disklaimer
 
 Gunakan hanya pada kode milik sendiri. Obfuscation bukan pengganti praktik keamanan yang baik.
-
-
----
-
-<p align="center"><sub>Made with a little help from <b>Hermes</b> · dev colab with hermes</sub></p>
