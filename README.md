@@ -12,6 +12,9 @@
 <p align="center">C & PHP obfuscator · zlib + base64</p>
 
 <p align="center">
+  <img src="docs/logo.png" alt="ZEXO — ZeroDev" width="110">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB" alt=""/>
   <img src="https://img.shields.io/badge/PHP-777BB4" alt=""/>
   <img src="https://img.shields.io/badge/MIT-2ea043" alt=""/>
